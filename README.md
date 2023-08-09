@@ -10,10 +10,11 @@ BackgroundCrons is a Go application that fetches weather data from an API and st
 - Git
 
 ### Installation
-
+```
 -git clone https://github.com/plainsurf-solution/BackgroundCrons.git
 -cd BackgroundCrons
 -go mod download
+```
 
 ## Usage
 
