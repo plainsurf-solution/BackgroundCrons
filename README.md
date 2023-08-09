@@ -17,7 +17,7 @@ go mod download
 
 ## Usage
 
-# Update MongoDB connection parameters and API endpoint in main.go
+### Update MongoDB connection parameters and API endpoint in main.go
 go run main.go
 
 ## Endpoints 
