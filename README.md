@@ -11,15 +11,15 @@ BackgroundCrons is a Go application that fetches weather data from an API and st
 
 ### Installation
 ```
--git clone https://github.com/plainsurf-solution/BackgroundCrons.git
--cd BackgroundCrons
--go mod download
+git clone https://github.com/plainsurf-solution/BackgroundCrons.git
+cd BackgroundCrons
+go mod download
 ```
 
 ## Usage
 
 ### Update MongoDB connection parameters and API endpoint in main.go
-go run main.go
+```go run main.go```
 
 ## Endpoints 
 - http://localhost:8080/get - getting weather info
